@@ -1,7 +1,7 @@
 # Computação Gráfica - Árvore 🌳
 
 <f2 align = "left"> **O seguinte projeto possui o objetivo de construir uma árvore por meio de conhecimentos com fractal e nós.**</f2> 
-<img src="tree.gif" align="center"/> <img src="nozes.jpeg" align="center"/>
+<img src="tree.gif" align="center"/> <img src="nozes.jpeg" align="right"/>
 <hr> </hr>
 
 <p>Para utilizar um módulo no Python, utilizamos o comando import (importar) seguido do nome do módulo que queremos importar. Após a importação, já podemos utilizar todos os objetos e funções que o módulo disponibiliza.<p>   
